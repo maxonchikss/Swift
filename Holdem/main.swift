@@ -4,6 +4,6 @@
 //сделать бота
 import Foundation
 
-var newGame = PokerGame(BigBlindes: 500)
+var newGame = PokerGame(BigBlindes: 1000)
 newGame.startGame()
 

@@ -1,11 +1,9 @@
-//
-//  main.swift
-//  Holdem
-//
-//  Created by Max on 11.02.2026.
-//
-
+//переход с дабл на инт
+//интегрировать систему авто алл ина и обработать онуление стеков
+//смена позиций
+//сделать бота
 import Foundation
 
-print("Hello, World!")
+var newGame = PokerGame(BigBlindes: 500)
+newGame.startGame()
 
